@@ -1,7 +1,17 @@
 fileFormatVersion: 2
 guid: 47a1bf44f3beae645acc39f3b2830522
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sir Knight_0
+    21300002: Sir Knight_1
+    21300004: Sir Knight_2
+    21300006: Sir Knight_3
+    21300008: Sir Knight_4
+    21300010: Sir Knight_5
+    21300012: Sir Knight_6
+    21300014: Sir Knight_7
+    21300016: Sir Knight_8
+    21300018: Sir Knight_9
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +50,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -82,11 +92,211 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Sir Knight_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 154
+        width: 17
+        height: 38
+      alignment: 9
+      pivot: {x: 0.48434582, y: 0.8361523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bab08bf66d06f49af5727e46705127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 94
+        height: 91
+      alignment: 9
+      pivot: {x: 0.45470273, y: 0.06426365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3b365cefae564f85e5867d6fbc7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 154
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.46198308, y: 0.86514175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda08f4cc730d0449823e855893217d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 152
+        width: 21
+        height: 43
+      alignment: 9
+      pivot: {x: 0.52534413, y: 0.84657574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254ac2b269541574180767df3814b4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 47
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4886757, y: 0.40743598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c705f70d83bb9d54099daedc3148ee55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 87
+        width: 68
+        height: 46
+      alignment: 9
+      pivot: {x: 0.9030946, y: 0.8355431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d798c364f3bfce94a83ead81aa041b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 64
+        width: 41
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7141943, y: 0.5785272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d6434493fa824cb3f883a6b03a936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 105
+        height: 68
+      alignment: 9
+      pivot: {x: 0.27189642, y: 0.66045505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455ead5d050d5a644bd11bd5e16bec9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 15
+        width: 26
+        height: 56
+      alignment: 9
+      pivot: {x: 0.72517926, y: 0.9039331}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5601a531f1e82d44ae9d38b4a46df29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sir Knight_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 21
+        width: 26
+        height: 50
+      alignment: 9
+      pivot: {x: 0.3874089, y: 0.87789077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c2d79059ce5a4b915c81a7f79a41f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: c83ecdee6b8a877458fbb926c8491d21
     vertices: []
     indices: 
     edges: []
